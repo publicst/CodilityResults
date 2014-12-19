@@ -19,3 +19,6 @@ https://codility.com/demo/results/demoCX3F72-JRU/
 Lesson 04 Sorting : Triangle 
 https://codility.com/demo/results/demoK832FY-NGM/
 
+Lesson 05 Stacks : Brackets
+https://codility.com/demo/results/demo3H6XZZ-YA4/
+
