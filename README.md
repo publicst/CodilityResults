@@ -24,3 +24,6 @@ https://codility.com/demo/results/demo3H6XZZ-YA4/
 
 Lesson 06 Leader : Dominator
 https://codility.com/demo/results/demoDMNCPU-KB9/
+
+Lesson 07 Maximum slice problem : MaxProfit
+https://codility.com/demo/results/demoUXEGG3-2ME/
