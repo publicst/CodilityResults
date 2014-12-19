@@ -22,3 +22,5 @@ https://codility.com/demo/results/demoK832FY-NGM/
 Lesson 05 Stacks : Brackets
 https://codility.com/demo/results/demo3H6XZZ-YA4/
 
+Lesson 06 Leader : Dominator
+https://codility.com/demo/results/demoDMNCPU-KB9/
