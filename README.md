@@ -15,3 +15,7 @@ https://codility.com/demo/results/demoPB2AMU-HMR/
 
 Lesson 03 Prefix Sums : Passing Cars 
 https://codility.com/demo/results/demoCX3F72-JRU/
+
+Lesson 04 Sorting : Triangle 
+https://codility.com/demo/results/demoK832FY-NGM/
+
