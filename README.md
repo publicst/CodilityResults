@@ -39,3 +39,7 @@ https://codility.com/demo/results/demoR98G3Y-FVA/
 
 Lesson 10 Euclidean Algorithm : ChocolatesByNumbers (this one took me couple submits because without the commented optimization, it was failing on larger numbers even though conceptually it is correct)
 https://codility.com/demo/results/demoWXHZ9T-BKN/
+
+Lesson 13 Caterpillar Method : AbsDistinct
+https://codility.com/demo/results/demoGQ6H6C-S3S/
+
