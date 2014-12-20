@@ -27,3 +27,6 @@ https://codility.com/demo/results/demoDMNCPU-KB9/
 
 Lesson 07 Maximum slice problem : MaxProfit
 https://codility.com/demo/results/demoUXEGG3-2ME/
+
+Lesson 08 Prime Numbers : MinPerimeterRectangle
+https://codility.com/demo/results/demo8U4R8V-SFA/
