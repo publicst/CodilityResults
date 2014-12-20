@@ -36,3 +36,6 @@ https://codility.com/demo/results/demoBZB9WR-PJB/
 
 Lesson 09 Sieve of Eratosthenes : CountNonDivisible (re-try after some research)
 https://codility.com/demo/results/demoR98G3Y-FVA/
+
+Lesson 10 Euclidean Algorithm : ChocolatesByNumbers (this one took me couple submits because without the commented optimization, it was failing on larger numbers even though conceptually it is correct)
+https://codility.com/demo/results/demoWXHZ9T-BKN/

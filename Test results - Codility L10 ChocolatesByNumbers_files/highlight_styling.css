@@ -1,0 +1,169 @@
+.code-container{
+	border: 1px solid #CCC;
+	margin-bottom: 1em;
+}
+.code-header{
+	background: #EEE;
+	border-bottom: 1px solid #CCC;
+	text-shadow: 0 1px 1px #fff;
+	margin: 0;
+	text-align: left;
+	padding: 10px 15px;
+}
+.code-footer{
+	background: #EEE;
+	border-top: 1px solid #CCC;
+	text-shadow: 0 1px 1px #fff;
+	margin: 0;
+	text-align: left;
+	padding: 10px 15px;
+}
+.solution-sourcecode-print .hljs {
+	padding: 0;
+}
+.solution-sourcecode-print{
+	border: none;
+	box-shadow: none;
+	margin: 0px;
+	padding: 0px;
+	table-layout: fixed;
+}
+.solution-sourcecode-print .line-numbers {
+	padding: 10px;
+	text-align: right;
+	float: left;
+}
+
+.solution-sourcecode-print .line-numbers a {
+	font-family: "Menlo", "Liberation Mono", "Consolas", "Courier New", "andale mono", "lucida console", monospace;
+	display: block;
+	font-size: 12px !important;
+	line-height: 16px !important;
+	white-space: nowrap;
+	color: #999;
+}
+.solution-sourcecode-print .code-highlight {
+	overflow: auto;
+	overflow-y: hidden;
+	border-left: 1px solid #eee;
+	border-right: border-left: 1px solid #eee;
+	text-shadow: none;
+}
+
+.solution-sourcecode-print .code-highlight pre {
+	white-space: pre;
+	word-wrap: normal;
+}
+
+.solution-sourcecode-print pre {
+	padding: 10px;
+	border: none;
+	border-radius: 0;
+	font-family: "Menlo", "Liberation Mono", "Consolas", "Courier New", "andale mono", "lucida console", monospace;
+	font-size: 12px !important;
+	line-height: 16px !important;
+	margin: 0;
+}
+.solution-sourcecode-print pre code {
+	white-space: pre;
+	word-wrap: normal;
+}
+.white {
+	background-color: #fff;
+}
+.white .hljs {
+	display: block;
+	background: #fff;
+	color: black;
+}
+.line.hll
+{
+	background-color: pink !important;
+}
+
+.hljs.language-go, .hljs.language-golang {
+    tab-size: 4;
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+}
+
+/*----For Diff Display ----*/
+.diff-container {
+	border:  0px;
+	overflow-x:auto;
+	overflow-y:hidden;
+}
+.diff-container table tr:last-child td{
+	/*margin-bottom: 1em;*/
+}
+.diff-container table {
+	width: 100%;
+	font-family: "Menlo", "Liberation Mono", "Consolas", "Courier New", "andale mono", "lucida console", monospace;
+	border: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.diff-container .num_line {
+	margin: 0px;
+	border: none;
+	background: #F5F5F5;
+	color: #666;
+	padding: 0px 5px;
+	border-right: 1px solid #ccc;
+	text-align: right;
+	width: 14px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+.diff-container .line_content {
+	display: block;
+	white-space: pre;
+	height: 18px;
+	margin: 0px;
+	padding: 0px 0.5em;
+	border: none;
+}
+.diff-container .line_content.matched {
+	color: #ccc;
+	background: #fafafa;
+}
+.diff-container .line_content.new {
+	background: #CFD;
+}
+.diff-container .line_content.old {
+	background: #FDD;
+}
+.diff-container  .line_holder.old .num_line {
+	background: #FCC;
+	border-color: #E7BABA;
+}
+.diff-container  .line_holder.new .num_line {
+	background: #CFC;
+	border-color: #B9ECB9;
+}
+.diff-container .diff-file tr:hover .line_content, .diff-container .diff-file tr:hover .num_line{
+	background:#d9edf7;
+	cursor: pointer;
+}
+.diff-container .old span.idiff{
+	background-color:#FAA
+}
+.diff-container .new span.idiff{
+	background-color:#AFA
+}
+
+.diff-container .num_line a{
+	font-weight: normal;
+	color: #666;
+}
+.diff-container span[class*='hljs-']{ 
+	color: #333 !important;
+	font-weight: bold !important; 
+}
+.diff-container span.hljs-comment{ 
+	color: #ccc !important;
+}
