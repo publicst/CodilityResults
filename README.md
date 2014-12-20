@@ -30,3 +30,7 @@ https://codility.com/demo/results/demoUXEGG3-2ME/
 
 Lesson 08 Prime Numbers : MinPerimeterRectangle
 https://codility.com/demo/results/demo8U4R8V-SFA/
+
+Lesson 09 Sieve of Eratosthenes : CountNonDivisible
+https://codility.com/demo/results/demoBZB9WR-PJB/
+
