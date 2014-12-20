@@ -43,3 +43,6 @@ https://codility.com/demo/results/demoWXHZ9T-BKN/
 Lesson 13 Caterpillar Method : AbsDistinct
 https://codility.com/demo/results/demoGQ6H6C-S3S/
 
+Lesson 14 Greedy Algorithm : TieRopes
+https://codility.com/demo/results/demoK4QY33-XVM/
+
