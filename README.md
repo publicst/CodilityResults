@@ -34,3 +34,5 @@ https://codility.com/demo/results/demo8U4R8V-SFA/
 Lesson 09 Sieve of Eratosthenes : CountNonDivisible
 https://codility.com/demo/results/demoBZB9WR-PJB/
 
+Lesson 09 Sieve of Eratosthenes : CountNonDivisible (re-try after some research)
+https://codility.com/demo/results/demoR98G3Y-FVA/
