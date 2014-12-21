@@ -47,6 +47,8 @@ https://codility.com/demo/results/demo3BB4M5-4NU/
 https://codility.com/demo/results/demoBNGHNN-7JQ/ 
 Just because I tried it with C++
 https://codility.com/demo/results/demoNCTA7C-VGD/
+OK I just needed to use uint. no need ot use longs just unsigned was the important part of calculation
+https://codility.com/demo/results/demoUVHRDS-9U8/
 
 Lesson 13 Caterpillar Method : AbsDistinct
 https://codility.com/demo/results/demoGQ6H6C-S3S/
