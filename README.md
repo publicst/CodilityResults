@@ -43,7 +43,7 @@ https://codility.com/demo/results/demoWXHZ9T-BKN/
 Lesson 11 Fibonacci Number : Ladder <br>
 (50%)<br>
 https://codility.com/demo/results/demo3BB4M5-4NU/<br>
-(100%) Same exact code. Just because I used ulong to store ridiculously long Fibonacci number I am able to pass this.<br>
+(100%) Same exact code. Just because I used ulong to store Fibonacci number I am able to pass this.<br>
 https://codility.com/demo/results/demoBNGHNN-7JQ/ <br>
 Just because I tried it with C++<br>
 https://codility.com/demo/results/demoNCTA7C-VGD/<br>
