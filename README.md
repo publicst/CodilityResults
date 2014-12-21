@@ -46,3 +46,6 @@ https://codility.com/demo/results/demoGQ6H6C-S3S/
 Lesson 14 Greedy Algorithm : TieRopes
 https://codility.com/demo/results/demoK4QY33-XVM/
 
+Lesson 15 Dynamic Programming : Number Solitaire
+https://codility.com/demo/results/demoF2E6HG-X2S/
+
