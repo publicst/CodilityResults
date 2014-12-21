@@ -40,14 +40,14 @@ https://codility.com/demo/results/demoR98G3Y-FVA/
 Lesson 10 Euclidean Algorithm : ChocolatesByNumbers (this one took me couple submits because without the commented optimization, it was failing on larger numbers even though conceptually it is correct)
 https://codility.com/demo/results/demoWXHZ9T-BKN/
 
-Lesson 11 Fibonacci Number : Ladder 
-(50%)
-https://codility.com/demo/results/demo3BB4M5-4NU/
-(100%) Same exact code. Just because I used ulong to store ridiculously long Fibonacci number I am able to pass this.
-https://codility.com/demo/results/demoBNGHNN-7JQ/ 
-Just because I tried it with C++
-https://codility.com/demo/results/demoNCTA7C-VGD/
-OK I just needed to use uint. no need ot use longs just unsigned was the important part of calculation
+Lesson 11 Fibonacci Number : Ladder <br>
+(50%)<br>
+https://codility.com/demo/results/demo3BB4M5-4NU/<br>
+(100%) Same exact code. Just because I used ulong to store ridiculously long Fibonacci number I am able to pass this.<br>
+https://codility.com/demo/results/demoBNGHNN-7JQ/ <br>
+Just because I tried it with C++<br>
+https://codility.com/demo/results/demoNCTA7C-VGD/<br>
+OK I just needed to use uint. no need ot use longs just unsigned was the important part of calculation<br>
 https://codility.com/demo/results/demoUVHRDS-9U8/
 
 Lesson 13 Caterpillar Method : AbsDistinct
