@@ -40,6 +40,12 @@ https://codility.com/demo/results/demoR98G3Y-FVA/
 Lesson 10 Euclidean Algorithm : ChocolatesByNumbers (this one took me couple submits because without the commented optimization, it was failing on larger numbers even though conceptually it is correct)
 https://codility.com/demo/results/demoWXHZ9T-BKN/
 
+Lesson 11 Fibonacci Number : Ladder 
+(50%)
+https://codility.com/demo/results/demo3BB4M5-4NU/
+(100%) Same exact code. Just because I used ulong to store ridiculously long Fibonacci number I am able to pass this.
+https://codility.com/demo/results/demoBNGHNN-7JQ/ 
+
 Lesson 13 Caterpillar Method : AbsDistinct
 https://codility.com/demo/results/demoGQ6H6C-S3S/
 
