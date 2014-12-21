@@ -50,6 +50,9 @@ https://codility.com/demo/results/demoNCTA7C-VGD/<br>
 OK I just needed to use uint. no need ot use longs just unsigned was the important part of calculation<br>
 https://codility.com/demo/results/demoUVHRDS-9U8/
 
+Lesson 12 Binary Search Algorithm : MinMaxDivision
+https://codility.com/demo/results/demoQE5422-EHW/
+
 Lesson 13 Caterpillar Method : AbsDistinct<br>
 https://codility.com/demo/results/demoGQ6H6C-S3S/
 
